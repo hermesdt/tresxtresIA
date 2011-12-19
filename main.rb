@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'rubygems'
-require 'pry'
 
 require_relative 'tablero.rb'
 require_relative 'turn.rb'
